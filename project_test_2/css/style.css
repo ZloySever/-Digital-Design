@@ -1,0 +1,17 @@
+.container {
+    width: 1920px;
+    height: 150px;
+    margin-left: 440px;
+    margin-right: 440px;
+   
+}
+
+.home {
+    width: 1920px;
+    margin-left: 440px;
+    margin-right: 440px;
+}
+
+.Date {
+    font-size: 24px;
+}
